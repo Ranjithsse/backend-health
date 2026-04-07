@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "c:\\Users\\Sugumar D\\OneDrive\\Desktop\\django\\env\\Scripts\\python.exe",
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/myproject"
+    ],
+    "python.analysis.autoSearchPaths": true,
+    "python.analysis.diagnosticMode": "workspace"
+}
